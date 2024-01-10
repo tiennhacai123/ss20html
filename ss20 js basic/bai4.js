@@ -1,0 +1,1 @@
+var result = confirm("Ban da du 18 tuoi chua?");
